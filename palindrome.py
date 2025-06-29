@@ -10,4 +10,10 @@ if n == result:
     print("Number is  palindrome.")
 else:
     print("Number is not palindrome.")
+
+
+
+
+
+    
          
